@@ -24,6 +24,7 @@ console.log(person.name);
 
 const answers = [];
 
+
 answers[0] = prompt('What is your name?', '');
 answers[1] = prompt('What is your lastname?', '');
 answers[2] = prompt('whoy old are you?', '');
